@@ -1,3 +1,4 @@
+# Agent Details
 This project is an agent that requires the following to function
 
 A Hypixel API developer Key
